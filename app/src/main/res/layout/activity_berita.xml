@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Berita">
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Judul Berita"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:textStyle="italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.469"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.052" />
+
+    <TextView
+        android:id="@+id/Berita"
+        android:layout_width="410dp"
+        android:layout_height="669dp"
+        android:scrollbars="vertical"
+        android:text="An Earthquake Indonesia once more. This time, a 5, 4 righter scale tremor shake up Cianjur.”The earthquake happened on Saturday at around 16:30 pm,” said national. As per BMKG, the tremor was in a profundity of 15 kilometers in 8:37 south scope – 06.79 East Longitude.  The tremor which happened toward the evening made frenzy among the inhabitants. They were anxious about tidal wave which can be created by the quake. Fortunately, the apprehension did not happen. “The tremor did not bring about a tidal wave on the grounds that the quality was not sufficiently enormous,” said BMKG. In any case, several homes were harmed and demolished by the tremor or earthquakes. On the other hand, so far it’s obscure whether there were fatalities or harmed in the episode.An Earthquake Indonesia once more. This time, a 5, 4 righter scale tremor shake up Cianjur.”The earthquake happened on Saturday at around 16:30 pm,” said national. As per BMKG, the tremor was in a profundity of 15 kilometers in 8:37 south scope – 06.79 East Longitude.  The tremor which happened toward the evening made frenzy among the inhabitants. They were anxious about tidal wave which can be created by the quake. Fortunately, the apprehension did not happen. “The tremor did not bring about a tidal wave on the grounds that the quality was not sufficiently enormous,” said BMKG. In any case, several homes were harmed and demolished by the tremor or earthquakes. On the other hand, so far it’s obscure whether there were fatalities or harmed in the episode.An Earthquake Indonesia once more. This time, a 5, 4 righter scale tremor shake up Cianjur.”The earthquake happened on Saturday at around 16:30 pm,” said national. As per BMKG, the tremor was in a profundity of 15 kilometers in 8:37 south scope – 06.79 East Longitude.  The tremor which happened toward the evening made frenzy among the inhabitants. They were anxious about tidal wave which can be created by the quake. Fortunately, the apprehension did not happen. “The tremor did not bring about a tidal wave on the grounds that the quality was not sufficiently enormous,” said BMKG. In any case, several homes were harmed and demolished by the tremor or earthquakes. On the other hand, so far it’s obscure whether there were fatalities or harmed in the episode.An Earthquake Indonesia once more. This time, a 5, 4 righter scale tremor shake up Cianjur.”The earthquake happened on Saturday at around 16:30 pm,” said national. As per BMKG, the tremor was in a profundity of 15 kilometers in 8:37 south scope – 06.79 East Longitude.  The tremor which happened toward the evening made frenzy among the inhabitants. They were anxious about tidal wave which can be created by the quake. Fortunately, the apprehension did not happen. “The tremor did not bring about a tidal wave on the grounds that the quality was not sufficiently enormous,” said BMKG. In any case, several homes were harmed and demolished by the tremor or earthquakes. On the other hand, so far it’s obscure whether there were fatalities or harmed in the episode."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView6" />
+</androidx.constraintlayout.widget.ConstraintLayout>

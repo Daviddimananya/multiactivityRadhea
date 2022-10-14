@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginHorizontal="20dp"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".Menu">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="100dp"
+        android:layout_height="80dp"
+        android:layout_marginBottom="70dp"
+        android:rotationX="37"
+        android:text="Menu"
+        android:textColor="@color/black"
+        android:textSize="35dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/Berita"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="170dp"
+        android:layout_height="55dp"
+        android:layout_marginBottom="10dp"
+        android:text="Berita"
+        android:textColor="@color/teal_700" />
+
+    <Button
+        android:id="@+id/Profile"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="170dp"
+        android:layout_height="55dp"
+        android:text="Profile"
+        android:textColor="@color/teal_700" />
+
+
+    <Button
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:id="@+id/Exit"
+        android:layout_width="170dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="25dp"
+        android:rotationX="33"
+        android:text="Exit"
+        android:textColor="@color/teal_700" />
+
+</androidx.appcompat.widget.LinearLayoutCompat>
